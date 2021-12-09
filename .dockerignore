@@ -1,0 +1,9 @@
+# List of folders to ignore.
+docker/
+api/
+test/
+
+# List of files to ignore.
+docker-compose.yml
+README.md
+Makefile
